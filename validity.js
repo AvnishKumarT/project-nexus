@@ -54,7 +54,7 @@
 
         // Redirect to the login page after a delay
         setTimeout(function () {
-          window.location.href = '../login/index.html'; // Replace with your actual login page URL
+          window.location.href = 'index.html'; // Replace with your actual login page URL
         }, 3000); // Redirect after 3 seconds (adjust as needed)
       }
     }
